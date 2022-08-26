@@ -2,7 +2,6 @@
 
 #  Destini
 
-## Our Goal
 
 
 
